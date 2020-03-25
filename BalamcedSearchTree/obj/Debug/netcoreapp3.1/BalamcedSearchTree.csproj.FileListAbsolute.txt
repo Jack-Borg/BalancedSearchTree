@@ -1,0 +1,11 @@
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\bin\Debug\netcoreapp3.1\BalamcedSearchTree.exe
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\bin\Debug\netcoreapp3.1\BalamcedSearchTree.deps.json
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\bin\Debug\netcoreapp3.1\BalamcedSearchTree.runtimeconfig.json
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\bin\Debug\netcoreapp3.1\BalamcedSearchTree.runtimeconfig.dev.json
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\bin\Debug\netcoreapp3.1\BalamcedSearchTree.dll
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\bin\Debug\netcoreapp3.1\BalamcedSearchTree.pdb
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\obj\Debug\netcoreapp3.1\BalamcedSearchTree.csprojAssemblyReference.cache
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\obj\Debug\netcoreapp3.1\BalamcedSearchTree.AssemblyInfoInputs.cache
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\obj\Debug\netcoreapp3.1\BalamcedSearchTree.AssemblyInfo.cs
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\obj\Debug\netcoreapp3.1\BalamcedSearchTree.dll
+C:\Users\GAIMZ\Software Dev\Algo\BalamcedSearchTree\BalamcedSearchTree\obj\Debug\netcoreapp3.1\BalamcedSearchTree.pdb

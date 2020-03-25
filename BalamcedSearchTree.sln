@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalamcedSearchTree", "BalamcedSearchTree\BalamcedSearchTree.csproj", "{381CBAA7-9DDB-47D9-BF24-2BD2FC6FCCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381CBAA7-9DDB-47D9-BF24-2BD2FC6FCCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381CBAA7-9DDB-47D9-BF24-2BD2FC6FCCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381CBAA7-9DDB-47D9-BF24-2BD2FC6FCCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381CBAA7-9DDB-47D9-BF24-2BD2FC6FCCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
